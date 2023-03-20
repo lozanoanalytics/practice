@@ -1,7 +1,5 @@
 ### Ivan Lozano 06/01/2020 HW1 Professor Kelly
 
-1. What is the code number that I e-mailed to you? 6a32cd9d8
-2. What e-mail address are you using for this course? ivan.lozano001@umb.edu
 3. Which IDE did you decide to use for this class? I will be using Visual Studio Code for this class.
 4. Tell me a bit about the process of carrying out these tasks. What went well? What was challenging?
 Is there anything else you want to tell me -- or have questions about?
