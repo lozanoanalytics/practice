@@ -1,0 +1,15 @@
+### Ivan Lozano 06/01/2020 HW1 Professor Kelly
+
+1. What is the code number that I e-mailed to you? 6a32cd9d8
+2. What e-mail address are you using for this course? ivan.lozano001@umb.edu
+3. Which IDE did you decide to use for this class? I will be using Visual Studio Code for this class.
+4. Tell me a bit about the process of carrying out these tasks. What went well? What was challenging?
+Is there anything else you want to tell me -- or have questions about?
+The process of carrying out these tasks went pretty well, although I had to contact IT
+to help in resetting my password. Not sure what went on there. Installing Python
+was fairly simple and it was pretty cool to learn the functionality in sublime text which I was unfamiliar with.
+I have yet to learn all the linux commands, which I am excited to unlock the full potential of it.
+Looking forward to learning more using linux, as a I am building my own PC, and want to fully use it with ubunto.
+Are there any books you recommend for web programming? I would love to learn how to make my own interactive
+website using python. Thanks -Ivan
+

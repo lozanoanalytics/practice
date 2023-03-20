@@ -1,0 +1,21 @@
+''' Author    :       Ivan lozano
+    Date      :       June 15, 2020
+    Filename  :       memo.txt
+    Purpose   :       Explaining how the process of hw3 went
+'''
+1. How did the process of creating these programs go for you?
+The process went well for the most part, this homework was  harder that the last as it
+tested us more on string concatenation. I feel that I could use more help on python base math
+expressions.
+2. What were your main challenges and how did you overcome them?
+The main challenges I encountered was using the math package to calculate radius and wrapping
+the right parenthesis for the interest equation. I thought I should have been able to use
+python's expressions as well, but I could not figure it out. I thought the math module was
+interesting to work with.
+3. What did you learn that may be of use as you move along in this class?
+I learned that organization matters a lot in coding, if you try to write everything
+all just in one line it may be hard to read and follow. I learned that taking equations,
+and breaking them down one piece at a time is a good way to get to the correct answer
+and making sure your code is running flawlessly. I also learned that the way that using
+expressions we can transform numbers to how they are represented, for example the percentages
+interest.py

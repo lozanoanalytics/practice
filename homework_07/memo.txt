@@ -1,0 +1,23 @@
+""" Date: July 16, 2020 
+    @Author: Ivan Lozano
+    Filename: memo.txt
+    Purpose: Reflection for homework 07
+"""
+
+1. How did the process of creating these programs go for you?
+The process for creating this program was quite challenging as I initially thought of
+of this assignment as a while loop having multiple entries for the user to select from,
+but after careful thought I realized that there is a predetermined list of only 12
+options to select from and thus it would be easier for the program to cycle through the
+12 options.
+2. What were your main challenges and how did you overcome them?
+I think my main challenges in writing this program was getting code to actually run after
+the first if clause. I realized that another nested loop would be best, but it was challenging
+because the list that I created for the twelve options calling the tuple ordering was ascending,
+but could also be called in a descending order. Using multiple options in the for loops was the
+key to effectively running the program with as few lines of code as possible.
+3. What did you learn that may be of use as you move along in this class?
+I learned how to combine the power of if/else clauses with for loops to have a program write out
+a range of inputted values. I also learned the use of calling the end of a tuple quickly without
+having to count the position of a value. It was interesting to be able to call multiple entries
+in the for loop.

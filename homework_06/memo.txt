@@ -1,0 +1,24 @@
+""" Date: July 11, 2020 
+    @Author: Ivan Lozano
+    Filename: memo.txt
+    Purpose: Homework 6: Practicing For and While loops,
+    and time modules"""
+
+1. How did the process of creating these programs go for you?
+The process in creating this program at first was quite difficult since there appeared to
+be a lot of moving parts. At first, I was confused since we had to include variables that were
+declared prior to the loops had to be in the loops as well.
+
+2. What were your main challenges and how did you overcome them?
+Being able to understand how loops work without having the program crash was at first
+worrisome since the idea of a loop is to continue looping through the program at
+at an almost infinite amount of times. So, at first my program was not running.
+I also thought making sure I was following the structure of including declared
+variables in my my while loop.
+
+3. What did you learn that may be of use as you move along in this class?
+The loops in this program replace several steps when writing print statements
+repeatedly. I thought that by practicing the difference between the While
+loop as well I understood more of when to use it over for loops waiting for the
+user’s response. Also, anytime I want to practice with data I have the random module
+to generate random integers.

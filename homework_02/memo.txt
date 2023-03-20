@@ -1,0 +1,15 @@
+1. How did the process of creating these programs go for you?
+The process went well for the most part, I had some challenges in making sure all
+the pieces to the puzzle fit right. As I went along some of the steps got easier
+as I got more comfortable with typing in code. There are a lot of neat tricks that
+can make the process go smoother.
+
+2. What were your main challenges and how did you overcome them?
+The main challenges that I had was making sure the alignment was just right.
+I made mistakes at first because I was using the space key. The trick that I found to
+align the written lines just right is using the tab key.
+
+3. What did you learn that may be of use as you move along in this class?
+I learned that copy and pasting the print command multiple times can lower the amount
+of time and typing you must perform during each exercise. Also, in aligning the code it
+is sometimes helpful to use the beginning and end of each line as guides.

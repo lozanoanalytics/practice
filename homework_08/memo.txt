@@ -1,0 +1,30 @@
+""" Date: July 21, 2020 
+@Author: Ivan Lozano
+Filename: memo.txt
+Purpose: Reflection on homework 8"""
+
+1. How did the process of creating these programs go for you?
+
+This assignment was fairly challenging when it came to linking
+dictionaries and lists. I thought it was interesting how many
+nested statements there was considering it was all wrapped in one
+larger outer while loop.
+
+2. What were your main challenges and how did you overcome them?
+
+The main challenges that I ran into was first getting started. This was
+difficult because of the first initial for loop in step 2 would have to
+link the list and index number of each of the books that was stored in the
+dictionary. After each step I would attempt a series of trial and error
+to get it right. The other challenging portion was part 4, to get
+the dictionary to print out in the format it was supposed to be in.
+I realized later on that there was multiple ways of doing it which one
+included a for loop.
+
+3. What did you learn that may be of use as you move along in this class?
+
+I learned how to use dictionaries to store data as well as combine them
+with for loops to call out all the keys at once while keeping their format.
+Writing shorter code, and being consistent with my indentation will be
+important for my success in this class while paying closing attention to
+detail.

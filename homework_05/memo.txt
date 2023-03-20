@@ -1,0 +1,23 @@
+#### Name   : Ivan Lozano
+#### Date   : July 6, 2020
+#### File   : memo.txt
+#### Purpose: Reflection to the questions
+
+1. How did the process of creating these programs go for you?
+This homework was a bit confusing in the beginning because I was unsure of how
+I would create statements to the user without writing distinct print statements.
+The structure of the if/else and elif clauses were familiar and although it
+was a bit challenging to conceptualize by the end I thought this homework was a bit
+easier than the last one.
+2. What were your main challenges and how did you overcome them?
+The main challenges was trying to understand what the user will see when they input
+whether they have completed their school assignment or not. To overcome this confusion,
+I thought about the structure of the questions as boolean statements, in which the
+output would be True (valid) if a yes was entered as a response. For anything else it
+would divert to a false entry and thus the negative input of not completing the school
+assignment would be the result.
+3. What did you learn that may be of use as you move along in this class?
+As I move along the class I see that the elif function is a much shorter way to write code
+to indicate the program to go on to the next step. Also, instead of writing explicitly
+what you are looking other options, the else clause was more efficient to be all-inclusive
+of other entries the user might enter.

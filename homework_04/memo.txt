@@ -1,0 +1,21 @@
+""" Date: June 15, 2020 
+    @Author: Ivan Lozano
+    Filename: memo.txt
+    Purpose: Homework 4: Reflection"""
+
+1. How did the process of creating these programs go for you? This homework was by far the most
+challenging thus far. After several attempts, and discussing in class about the truth tables, I
+thought I grasped the concept, but the application was a different animal because of the
+idiosyncrasies of Python itself.
+2. What were your main challenges and how did you overcome them? The first challenge was trying
+to figure how the Boolean operators and how they worked with each other in different cases. While
+it was clear to me on how to convert input functions to integers automatically, doing so for
+Boolean operators were not the same as bool ("False") printed as “True” due to input as a non-
+empty string. The second issue was figuring out when to use the ‘not’ operator in the if/else
+clauses. I wouldn't have figured it out without the extra online resources posted on the homework
+webpage which were very useful.
+3. What did you learn that may be of use as you move along in this class? I learned to be careful
+when using the Boolean commands, and always test my code to make sure the syntax is correct. I
+learned to be open to helpful resources and ask specific questions when my code is failing
+after several attempts. I also learned that indentation when stringing more combined functions
+is important for your code to run smoothly.
